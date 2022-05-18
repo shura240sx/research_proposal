@@ -1,16 +1,16 @@
-
-     body{
+body {
         background-color: skyblue;
       }
       
-      #firstp{
+      #firstp {
         color:white;
         background-color: powderblue;
         text-align: left;
       }
-      .light{
+
+      .light {
         color: white;
         background-color: mediumslateblue;
         text-align: right;
       }
-    </style>
+
