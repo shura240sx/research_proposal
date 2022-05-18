@@ -1,0 +1,16 @@
+
+     body{
+        background-color: skyblue;
+      }
+      
+      #firstp{
+        color:white;
+        background-color: powderblue;
+        text-align: left;
+      }
+      .light{
+        color: white;
+        background-color: mediumslateblue;
+        text-align: right;
+      }
+    </style>
