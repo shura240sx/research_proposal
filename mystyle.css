@@ -1,10 +1,11 @@
 body {
-        background: #CAEFEE;
-        margin: 0;
-        padding: 0;
+        background: #B2D8D7;
+        margin: 30 px;
+        padding: 30px;
       }
 h1 {
-        color: white;
+        background-color: white;
+        color: #476464;
         font-size: 2em;
         padding-top: 100 px;
         width: 100%;
