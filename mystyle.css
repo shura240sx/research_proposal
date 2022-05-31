@@ -9,13 +9,16 @@ h1 {
         padding-top: 100 px;
         width: 100%;
         font-family:'Space Mono', monospace;
-      #firstp {
+        text-align: center;
+       }
+
+#firstp {
         color:white;
         background-color: powderblue;
         text-align: left;
       }
 
-      .light {
+.light {
         color: white;
         background-color: mediumslateblue;
         text-align: right;
