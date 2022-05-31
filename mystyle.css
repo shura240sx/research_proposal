@@ -1,7 +1,14 @@
 body {
-        background-color: skyblue;
+        background: #CAEFEE;
+        margin: 0;
+        padding: 0;
       }
-      
+h1 {
+        color: white;
+        font-size: 2em;
+        padding-top: 100 px;
+        width: 100%;
+        font-family:'Space Mono', monospace;
       #firstp {
         color:white;
         background-color: powderblue;
