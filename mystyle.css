@@ -18,6 +18,13 @@ nav {
         font-size: 20px;
         font-family: 'Lexend', sans-serif;
         text-align: center;
+        }
+
+nav li {
+        display: inline-block;
+        height: 100%;
+        padding: 10px;
+        }
 
 #firstp {
         color:white;
