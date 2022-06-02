@@ -1,6 +1,6 @@
 /*Background of site*/
 body {
-        background: #B2D8D7;
+        background: #90DDF3;
         margin: 30 px;
         padding: 0;
       }
@@ -12,7 +12,7 @@ body {
 
 /*Title*/
 h1 {
-        color: #476464;
+        color: #55B2CD;
         font-size: 2em;
         padding-top: 100 px;
         width: 100%;
@@ -51,22 +51,23 @@ nav li {
 
 /* First Paragraph*/
 
-#intro {
+.intro {
         background-color: white;
-        padding: 10px;
         color: #1E3232;
-        font-size: 2em;
-        padding-top: 100 px;
+        font-size: 30px;
+        padding-top: 75px;
+        padding-bottom: 25px;
         width: 100%;
         font-family: 'Lexend', sans-serif;
         text-align: center;
+        border-bottom: 3px solid white;
 }
 
-#significance {
+.significance {
         color: #1E3232;
-        font-size: 20px;
+        font-size: 25px;
         margin: 20px;
-        padding-top: 100 px;
+        padding-top: 35px;
         width: 100%;
         font-family: 'Lexend', sans-serif;
         font-style: italic;
@@ -74,6 +75,7 @@ nav li {
 }
 
 #firstp {
+        font-size: 17px;
         line-height: 1.3em;
         text-align: left;
         width: 100%;
@@ -91,3 +93,13 @@ nav li {
         text-align: right;
         font-family: 'Commissioner', sans-serif;
       }
+
+h5{
+        color: #98A6A9;
+        font-size: 18px;
+        padding-top: 100 px;
+        width: 100%;
+        font-family: 'Commissioner', sans-serif;
+        font-style: italic;
+        text-align: center;
+}
