@@ -1,50 +1,24 @@
-/*Background of all pages*/
+/*Background of site*/
 body {
         background: #90DDF3;
         margin: 30 px;
         padding: 0;
       }
-
-/*Homepage Code (the index)*/
-#homepagetitle{
-        padding-top: 150px;
-        font-size: 45px;
-        color: #1E3232;
-        font-family: 'Lexend', sans-serif;
-        text-align: center;
-}
-
-#homepagetext{
-        padding-top: 60px;
-        text-align: center;
-        font-size: 25px;
-        width: 100%;
-        color: white;
-        font-family: 'Commissioner', sans-serif;
-}
-
-#enterbutton{
-    font-size: 25px;
-    font-family: 'Lexend', sans-serif;
-    text-align : center;
-    padding-top: 55px;
-    text-decoration: none;
-}
-
 /*Background of title box and navigation var*/
 #titlebox {
         background-color: white;
         padding: 10px;
+        width: 100%;
       }
 
 /*Title*/
 h1 {
-        color: #55B2CD;
+        color: #1E3232;
         font-size: 2em;
         padding-top: 100 px;
         width: 100%;
         font-family: 'Lexend', sans-serif;
-        text-align: center;
+        text-align: left;
        }
 
 /* Navigation Bar */
@@ -77,17 +51,16 @@ nav li {
         }
 
 /* First Paragraph*/
-
 .intro {
+        
         background-color: white;
-        color: #1E3232;
+        width: 100%;
+        color: #55B2CD;
         font-size: 30px;
         padding-top: 75px;
         padding-bottom: 25px;
-        width: 100%;
         font-family: 'Lexend', sans-serif;
         text-align: center;
-        border-bottom: 3px solid white;
 }
 
 .significance {
@@ -102,22 +75,15 @@ nav li {
 }
 
 #firstp {
+        background-color:#90DDF3;
         font-size: 17px;
         line-height: 1.3em;
         text-align: left;
         width: 100%;
-        color: white;
+        color: #1E3232;
         margin: 35px;
         padding: 10 px;
-        padding-top: 100 px;
         text-align: left;
-        font-family: 'Commissioner', sans-serif;
-      }
-
-.light {
-        color: white;
-        background-color: mediumslateblue;
-        text-align: right;
         font-family: 'Commissioner', sans-serif;
       }
 
@@ -130,3 +96,27 @@ h5{
         font-style: italic;
         text-align: center;
 }
+
+.areatostudy {
+        color: #1E3232;
+        font-size: 25px;
+        margin: 20px;
+        padding-top: 35px;
+        width: 100%;
+        font-family: 'Lexend', sans-serif;
+        font-style: italic;
+        text-align: left;
+}
+
+#secondp {
+        font-size: 17px;
+        line-height: 1.3em;
+        text-align: left;
+        width: 100%;
+        color: #1E3232;
+        margin: 35px;
+        padding: 10 px;
+        padding-bottom: 20px;
+        text-align: left;
+        font-family: 'Commissioner', sans-serif;
+      }
