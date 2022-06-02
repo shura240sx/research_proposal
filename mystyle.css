@@ -1,14 +1,16 @@
+/*Background of site*/
 body {
         background: #B2D8D7;
         margin: 30 px;
         padding: 0;
       }
-
+/*Background of title box and navigation var*/
 #titlebox {
         background-color: white;
         padding: 10px;
-}
-        
+      }
+
+/*Title*/
 h1 {
         color: #476464;
         font-size: 2em;
@@ -17,12 +19,29 @@ h1 {
         font-family: 'Lexend', sans-serif;
         text-align: center;
        }
+
+/* Navigation Bar */
 nav {
-        color: #476464;
-        font-size: 20px;
-        font-family: 'Lexend', sans-serif;
-        text-align: center;
-        }
+    list-style-type : none;
+    margin : 0px;
+    padding : 0;
+    overflow : hidden;
+    background-color : #333;
+    }
+
+li a {
+    display : block;
+    color : white;
+    font-family: 'Lexend', sans-serif;
+    text-align : center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color : #111;
+    }
 
 nav li {
         display: inline-block;
@@ -30,9 +49,38 @@ nav li {
         padding: 10px;
         }
 
+/* First Paragraph*/
+
+#intro {
+        background-color: white;
+        padding: 10px;
+        color: #1E3232;
+        font-size: 2em;
+        padding-top: 100 px;
+        width: 100%;
+        font-family: 'Lexend', sans-serif;
+        text-align: center;
+}
+
+#significance {
+        color: #1E3232;
+        font-size: 20px;
+        margin: 20px;
+        padding-top: 100 px;
+        width: 100%;
+        font-family: 'Lexend', sans-serif;
+        font-style: italic;
+        text-align: left;
+}
+
 #firstp {
-        color:white;
-        background-color: powderblue;
+        line-height: 1.3em;
+        text-align: left;
+        width: 100%;
+        color: white;
+        margin: 35px;
+        padding: 10 px;
+        padding-top: 100 px;
         text-align: left;
         font-family: 'Commissioner', sans-serif;
       }
@@ -43,4 +91,3 @@ nav li {
         text-align: right;
         font-family: 'Commissioner', sans-serif;
       }
-
