@@ -1,9 +1,37 @@
-/*Background of site*/
+/*Background of all pages*/
 body {
         background: #90DDF3;
         margin: 30 px;
         padding: 0;
       }
+
+/*Homepage Code (the index)*/
+#homepagetitle{
+        padding-top: 150px;
+        font-size: 45px;
+        color: #1E3232;
+        font-family: 'Lexend', sans-serif;
+        text-align: center;
+}
+
+#homepagetext{
+        padding-top: 60px;
+        text-align: center;
+        font-size: 25px;
+        width: 100%;
+        color: white;
+        font-family: 'Commissioner', sans-serif;
+}
+
+#enterbutton{
+    display : block;
+    font-size: 25px;
+    font-family: 'Lexend', sans-serif;
+    text-align : center;
+    padding-top: 55px;
+    text-decoration: none;
+}
+
 /*Background of title box and navigation var*/
 #titlebox {
         background-color: white;
