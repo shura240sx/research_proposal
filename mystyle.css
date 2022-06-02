@@ -1,10 +1,38 @@
-/*Background of site*/
+/*Background of all pages*/
 body {
         background: #90DDF3;
         margin: 30 px;
         padding: 0;
       }
-/*Background of title box and navigation var*/
+
+/*Homepage Code (the index)*/
+#homepagetitle{
+        padding-top: 150px;
+        font-size: 45px;
+        color: #1E3232;
+        font-family: 'Lexend', sans-serif;
+        text-align: center;
+}
+
+#homepagetext{
+        padding-top: 60px;
+        text-align: center;
+        font-size: 25px;
+        width: 100%;
+        color: white;
+        font-family: 'Commissioner', sans-serif;
+}
+
+#enterbutton{
+    display : block;
+    font-size: 25px;
+    font-family: 'Lexend', sans-serif;
+    text-align : center;
+    padding-top: 55px;
+    text-decoration: none;
+}
+
+/*Background of title box and navigation bar*/
 #titlebox {
         background-color: white;
         padding: 10px;
@@ -51,8 +79,8 @@ nav li {
         }
 
 /* First Paragraph*/
+
 .intro {
-        
         background-color: white;
         width: 100%;
         color: #55B2CD;
@@ -74,12 +102,14 @@ nav li {
         text-align: left;
 }
 
-#firstp {
-        background-color:#90DDF3;
+.firstp {
+        display: inline-block;
+        width: 1250px;
+        height: 300px
+        background-color: #90DDF3;
         font-size: 17px;
         line-height: 1.3em;
         text-align: left;
-        width: 100%;
         color: #1E3232;
         margin: 35px;
         padding: 10 px;
