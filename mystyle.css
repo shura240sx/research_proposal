@@ -138,11 +138,10 @@ h5{
         font-size: 17px;
         line-height: 1.3em;
         text-align: left;
-        width: 100%;
         color: #1E3232;
         margin: 35px;
-        padding: 10 px;
-        padding-bottom: 20px;
+        padding-right: 100px;
+        padding-left: 100px;
         text-align: left;
         font-family: 'Commissioner', sans-serif;
       }
