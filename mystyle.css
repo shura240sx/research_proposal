@@ -207,10 +207,17 @@ h5{
         font-family: 'Commissioner', sans-serif;
         font-style: normal;
       }
+
 .image1 {
   background-image:url('https://images.adsttc.com/media/images/5d54/855f/284d/d16c/1200/00db/large_jpg/shutterstock_63798268.jpg?1565820236');
   background-size: cover;
   background-position: bottom;
+  height: 500px;
+}
+.image2 {
+  background-image:url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ij3VTMw_Ki58/v2/1200x-1.jpg');
+  background-size: cover;
+  background-position: center;
   height: 500px;
 }
 .caption {
