@@ -208,25 +208,25 @@ h5{
         font-style: normal;
       }
 .image1 {
-  background-image: url('../../img/pink universalist.jpg');
+  background-image:url('https://images.adsttc.com/media/images/5d54/855f/284d/d16c/1200/00db/large_jpg/shutterstock_63798268.jpg?1565820236');
   background-size: cover;
-  background-position: center;
-  height: 300px;
+  background-position: bottom;
+  height: 500px;
 }
 .caption {
   text-align: center;
   display: block;
   font-family: 'Lexend', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
   font-style: normal;
   line-height: 14px;
   margin-left: 20px;
   position: relative;
   left: 50%; 
   transform: translateX(-50%);
-  padding: 10px;
-  top: 80%;
-  width: 19%;
+  padding: 20px;
+  top: 50%;
+  width: 27%;
   background-color: white;
   color: black;
 }
