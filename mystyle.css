@@ -232,6 +232,12 @@ h5{
   background-position: center;
   height: 500px;
 }
+.image5 {
+  background-image:url('https://shrm-res.cloudinary.com/image/upload/c_crop,h_3778,w_6720,x_0,y_663/w_auto:100,w_1200,q_35,f_auto/v1/Legal%20and%20Compliance/wheelchair_user4_wlowjp.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
 .caption {
   text-align: center;
   display: block;
