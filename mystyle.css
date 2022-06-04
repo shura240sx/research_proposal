@@ -226,6 +226,12 @@ h5{
   background-position: center;
   height: 500px;
 }
+.image4 {
+  background-image:url('https://thearcca.org/wp-content/uploads/2020/07/capitol-crawl-2.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
 .caption {
   text-align: center;
   display: block;
